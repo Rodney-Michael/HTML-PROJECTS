@@ -1,0 +1,61 @@
+body{
+    background-color: blanchedalmond;
+}
+h2{
+    text-align: center;
+    color: cadetblue;
+    text-shadow: 2px 4px 16px darkblue;
+}
+table{
+    width: 50%;
+    background-color: brown;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+th,td{
+    font-size: 20px;
+    font-weight: bold;
+    color: aliceblue;
+}
+table,th,td{
+    border: 2px solid cornflowerblue;
+    border-collapse: collapse;
+    padding: 12px;
+}
+#cup{
+    color: darkblue;
+    font-weight: bolder;
+    font-size: 20px;
+}
+#kiatu {
+    color: aqua;
+    background-color: black;
+}
+.changer{
+    background-color:azure;
+    color: crimson;
+}
+.changer1{
+    background-color: coral;
+color: black;
+}
+#centering{
+    width: 1000px;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+}
+.footer{
+    color: mediumorchid;
+    background-color: honeydew;
+    text-align: center;
+    padding: 30px;
+}
+.div1 {
+    background-color: darkgrey;
+}
+a:hover{
+    background-color:floralwhite;
+    color: black;
+    font-size: large;
+}

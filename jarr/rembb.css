@@ -1,0 +1,50 @@
+#safi{
+    background-color: coral;
+    color: darkslategrey;
+}
+table,th,td{
+    border: 2px solid;
+    border-collapse: collapse;
+}
+.noma{
+    background-color:cornsilk;
+    color: black;
+    font-family: "Century Schoolbook L";
+    font-size: larger;
+    font-weight: bold;
+}
+.dandia{
+    background-color: azure;
+    font-size: larger;
+    font-family: fantasy;
+}
+.mjinga{
+    background-color: cornsilk;
+    color: black;
+    font-size: larger;
+    font-weight: bolder;
+    text-align: center;
+    align-content: center;
+}
+.swara {
+    background-color: chocolate;
+    line-height: 45px;
+    color:darkslategrey;
+    text-align: center;
+    margin-right: 300px;
+    margin-left: 300px;
+    border-collapse: collapse;
+}
+a:hover{
+    color: cornsilk;
+    background-color: darkred;
+}
+.uzii{
+    background-color: cornsilk;
+    color: black;
+    font-size: larger;
+    font-weight: bolder;
+    text-align: center;
+    margin-right: 300px;
+    margin-left: 300px;
+}
